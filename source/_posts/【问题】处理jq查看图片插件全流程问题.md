@@ -24,7 +24,5 @@ tags:
 
 2生成插件时如果切换了图片或从新生成了图片一定要清除插件后在生成一次。清楚插件之前要判断是否有插件。有就清除再去从新生成
 
-![image-20200730174200421](C:\Users\ZIAN KANG\AppData\Roaming\Typora\typora-user-images\image-20200730174200421.png)
-
-
+![image-20200730174200421](https://zcx666666.oss-cn-beijing.aliyuncs.com/img/image-20200730174200421.png)
 
